@@ -1,0 +1,23 @@
+server:
+  port: 8081
+
+spring:
+  application:
+  name: classifier-service
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/currency
+    username: postgres
+    password: 508an375
+    hikari:
+    maximum-pool-size: 20
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+app:
+  jwt:
+    secret: NDQ1ZjAzNjQtMzViZi00MDRjLTljZjQtNjNjYWIyZTU5ZDYw
+    issuer: ITAcademy

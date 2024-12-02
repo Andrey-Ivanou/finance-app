@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee796301-8217-4cd9-938f-f68e9f360f7e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/by/it_academy/jd2/_107/finance_app/models/UserPrincipal.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2oRehB2aY1CgZVh4cMV6nymkvBO" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ClassifierServiceApplication.executor": "Run",
+    "Application.FinanceAppApplication.executor": "Run",
+    "JUnit.All in finance-app.executor": "Debug",
+    "Maven.finance-app [clean].executor": "Run",
+    "Maven.finance-app [compile].executor": "Run",
+    "Maven.finance-app [package].executor": "Run",
+    "Maven.finance-app [validate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/and85/IdeaProjects/finance-app/classifier-service/src/main/java/by/it_academy/jd2/_107/classifier_service/controller",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.44367817",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.ignored.files"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\and85\IdeaProjects\finance-app\classifier-service\src\main\java\by\it_academy\jd2\_107\classifier_service\controller" />
+      <recent name="C:\Users\and85\IdeaProjects\finance-app\classifier-service\src\main\java\by\it_academy\jd2\_107\classifier_service" />
+      <recent name="C:\Users\and85\IdeaProjects\finance-app" />
+      <recent name="C:\Users\and85\IdeaProjects\finance-app\classifier-service" />
+      <recent name="C:\Users\and85\IdeaProjects\finance-app\src\main\java\by\it_academy\jd2\_107\finance_app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\and85\IdeaProjects\finance-app" />
+      <recent name="C:\Users\and85\IdeaProjects\finance-app\classifier-service\classifier-service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.it_academy.jd2._107.classifier_service.DTO" />
+      <recent name="by.it_academy.jd2._107.classifier_service.DTO.ResponseDTO" />
+      <recent name="by.it_academy.jd2._107.user_service.controller.advice" />
+      <recent name="by.it_academy.jd2._107.finance_app.controller.advice" />
+      <recent name="by.it_academy.jd2._107.finance_app.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FinanceAppApplication">
+    <configuration name="ClassifierServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.it_academy.jd2._107.classifier_service.ClassifierServiceApplication" />
+      <module name="classifier-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.it_academy.jd2._107.classifier_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinanceAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.it_academy.jd2._107.user_service.FinanceAppApplication" />
+      <module name="user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.it_academy.jd2._107.user_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FinanceAppApplication" />
+        <item itemvalue="Application.ClassifierServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee796301-8217-4cd9-938f-f68e9f360f7e" name="Changes" comment="" />
+      <created>1730836932421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730836932421</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/user_service/src/main/java/by/it_academy/jd2/_107/user_service/service/UserHolder.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/user_service/src/main/java/by/it_academy/jd2/_107/user_service/service/CabinetService.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/user_service/src/main/java/by/it_academy/jd2/_107/user_service/controller/UserController.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/user_service/src/main/java/by/it_academy/jd2/_107/user_service/service/UserService.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/user_service/src/main/java/by/it_academy/jd2/_107/user_service/service/UserService.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/user_service/src/main/java/by/it_academy/jd2/_107/user_service/controller/UserController.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/classifier-service/src/main/java/by/it_academy/jd2/_107/classifier_service/service/CurrencyService.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/classifier-service/src/main/java/by/it_academy/jd2/_107/classifier_service/service/CurrencyService.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/classifier-service/src/main/java/by/it_academy/jd2/_107/classifier_service/service/CurrencyService.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/classifier-service/src/main/java/by/it_academy/jd2/_107/classifier_service/service/CurrencyService.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/user_service/src/main/java/by/it_academy/jd2/_107/user_service/service/UserService.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

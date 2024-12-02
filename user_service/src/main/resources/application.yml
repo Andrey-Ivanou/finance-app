@@ -1,0 +1,31 @@
+spring:
+  application:
+  name: finance-app
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/finance
+    username: postgres
+    password: 508an375
+    hikari:
+    maximum-pool-size: 20
+    ignoreInvalidFields: false
+    ignoreUnknownFields: true
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+app:
+  jwt:
+    secret: NDQ1ZjAzNjQtMzViZi00MDRjLTljZjQtNjNjYWIyZTU5ZDYw
+    issuer: ITAcademy
+
+  mail:
+    host: smtp.mail.ru
+    port: 465
+    login: iv.an2607@mail.ru
+    password: KLHAYeeW5ZpjaV8Jcsq1
+    from: ${app.mail.login}
+
+
